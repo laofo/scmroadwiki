@@ -8,5 +8,13 @@ ScmRoad Wiki
 4. 每个页面的页脚请写上自己的名字：Edited by xx,yy
 5. 每个页面的格式请遵循 markdown 语法
 6. 把工作分成一个个细小的 section，完成一个后及时 pr，以免冲突和浪费时间
+7. 高度自我管理、自我认领任务
+
+# 目前分工
+- docker： laofo
+- svn:
+- gerrit:
+- git:
+- jenkins:
 
 //bow
