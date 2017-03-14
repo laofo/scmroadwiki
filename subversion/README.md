@@ -1,1 +1,0 @@
-Edited by [gape777](https://github.com/gape777)
