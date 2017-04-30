@@ -11,7 +11,7 @@ ScmRoad Wiki
 
 # 目前分工
 - docker： laofo
-- svn: [gape777](https://github.com/gape777)
+- svn: [遥逺](https://github.com/gape777)
 - gerrit: daisy
 - git: 咸鱼
 - jenkins:
